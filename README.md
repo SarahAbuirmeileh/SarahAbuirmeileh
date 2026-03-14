@@ -18,7 +18,7 @@
 </a>
 
 
-####  -  🔭 I’m enthusiastic and passionate  developer & researcher
+####  -  🔭 I’m enthusiastic and passionate Software Engineer with big interests on Medical Computing, Scientific Visualization, and Research-Oriented Development
 
 #### - 📝 I regularly write technical articles on [Medium](https://medium.com/@SarahAbuirmeileh) 🔗
     
