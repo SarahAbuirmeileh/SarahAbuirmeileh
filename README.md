@@ -7,7 +7,7 @@
 
 <h3 align="center">Writing code that speaks louder than words 🔊✨</h3>
 
----
+
 
 # 💎 About Me
 
@@ -18,7 +18,7 @@
 * 💤 **404:** Sleep not found
 * 📫 [sarahabuirmeileh@gmail.com](mailto:sarahabuirmeileh@gmail.com)
 
----
+
 
 <h3 align="center">🧠💫 Coding: where logic meets magic</h3>
 
@@ -94,7 +94,7 @@
 <a href="https://www.atlassian.com/software/jira"><img src="https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX" width="40"/></a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -107,7 +107,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarahAbuirmeileh&layout=compact&theme=github_dark&hide_border=true" width="350"/>
 </p>
 
----
+
 
 ## 👀 Visitors
 
@@ -115,7 +115,7 @@
 <img src="https://profile-counter.glitch.me/SarahAbuirmeileh/count.svg">
 </p>
 
----
+
 
 ## 🤝 Let's Connect
 
@@ -125,6 +125,6 @@
 <a href="https://github.com/SarahAbuirmeileh"><img width="10%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 </p>
 
----
+
 
 ![footer](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
