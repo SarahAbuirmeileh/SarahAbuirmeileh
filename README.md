@@ -1,28 +1,35 @@
+
 <div align="center" style="margin-top: 20px;">
     <b>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&width=700&lines=Hello+there!+🙋🏻‍♀️+I'm+Sarah+Abu+Irmeileh">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&random=false&width=700&lines=Hello+there!+🙋🏻‍♀️+I'm+Sarah+Abu+irmeileh" style="display: inline-block; vertical-align: top;">
     </b>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="display: inline-block; margin-top: 5px;">
 </div>
+
 
 <h3 align="center">Writing code that speaks louder than words 🔊✨</h3>
 
+<br>
+
+<h1 >About Me ...💎</h1>
+<a target="_blank" align="center">
+<br>
+  <img align="right" top="100" height="260" width="290" alt="Sarah" src="https://github.com/SarahAbuirmeileh/SarahAbuirmeileh/assets/127017088/0fb1ac5c-ec36-4c4c-9196-6b95391fd95e">
+</a>
 
 
-# 💎 About Me
+####  -  🔭 I’m enthusiastic and passionate Software Engineer with big interests on Medical Computing, Scientific Visualization, and Research-Oriented Development
 
-<img align="right" height="260" width="290" src="https://github.com/SarahAbuirmeileh/SarahAbuirmeileh/assets/127017088/0fb1ac5c-ec36-4c4c-9196-6b95391fd95e">
+#### - 📝 I regularly write technical articles on [Medium](https://medium.com/@SarahAbuirmeileh) 🔗
+    
+#### -  💤 **404:** Sleep not found, debugging life 
 
-* 🔭 Passionate Software Engineer interested in Medical Computing, Scientific Visualization & Research
-* 📝 Writing technical articles on [Medium](https://medium.com/@SarahAbuirmeileh)
-* 💤 **404:** Sleep not found
-* 📫 [sarahabuirmeileh@gmail.com](mailto:sarahabuirmeileh@gmail.com)
+#### -  📫 How to reach me: sarahabuirmeileh@gmail.com
 
+<br> <br> <h3  align="center">  **Coding:**  where logic meets magic 🧠💫 </h3> <br>
 
-
-<h3 align="center">🧠💫 Coding: where logic meets magic</h3>
-
-## 🛠️ Languages & Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools:
+</b>
 
 ### Programming Languages
 
@@ -94,37 +101,36 @@
 <a href="https://www.atlassian.com/software/jira"><img src="https://play-lh.googleusercontent.com/_AZCbg39DTuk8k3DiPRASr9EwyW058pOfzvAu1DsfN9ygtbOlbuucmXaHJi5ooYbokQX" width="40"/></a>
 </p>
 
+<br> <br>
 
 
-## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SarahAbuirmeileh&count_private=true&theme=github_dark&hide_border=true" width="400"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=SarahAbuirmeileh&theme=github_dark&hide_border=true" width="440"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SarahAbuirmeileh&count_private=true&theme=github_dark&hide_border=true" alt="Sarah Abu Irmeileh's Contribution" width=400>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarahAbuirmeileh&count_private=true&theme=github_dark&hide_border=true" alt="Sarah Abu Irmeileh's Rating" width=440>
 </p>
 
+<p align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=SarahAbuirmeileh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt = "Sarah Abu Irmeileh's Languages/Frameworks" width = 350 />
+</p>
+
+<br>
+
+<h2 align="center">Visitors 👀</h2>
+<div align="center" >
+  <img src="https://profile-counter.glitch.me/SarahAbuirmeileh/count.svg"></img>
+</div>
+
+
+<br><br>
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SarahAbuirmeileh&layout=compact&theme=github_dark&hide_border=true" width="350"/>
+	<a href="https://www.linkedin.com/in/sarah-abu-irmeileh-9011b2276/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="mailto:sarahabuirmeileh@gmail.com"><img alt="gmail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+ 	<a href="https://github.com/SarahAbuirmeileh"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 </p>
 
 
-
-## 👀 Visitors
-
-<p align="center">
-<img src="https://profile-counter.glitch.me/SarahAbuirmeileh/count.svg">
-</p>
-
-
-
-## 🤝 Let's Connect
-
-<p align="center">
-<a href="https://www.linkedin.com/in/sarah-abu-irmeileh-9011b2276/"><img width="10%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-<a href="mailto:sarahabuirmeileh@gmail.com"><img width="10%" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
-<a href="https://github.com/SarahAbuirmeileh"><img width="10%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-</p>
-
-
-
-![footer](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
