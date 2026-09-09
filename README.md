@@ -116,15 +116,10 @@
  <img src = "https://github-stats-extended.vercel.app/api/top-langs?username=SarahAbuirmeileh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt = "Sarah Abu Irmeileh's Languages/Frameworks" width = 350 />
 </p>
 
+
+
 <br>
 
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/SarahAbuirmeileh/count.svg"></img>
-</div>
-
-
-<br><br>
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="center">
 	<a href="https://www.linkedin.com/in/sarah-abu-irmeileh-9011b2276/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
