@@ -107,13 +107,13 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=SarahAbuirmeileh&count_private=true&theme=github_dark&hide_border=true" alt="Sarah Abu Irmeileh's Contribution" width=400>
+  <img src="https://github-readme-stats-extended.vercel.app/api?username=SarahAbuirmeileh&count_private=true&theme=github_dark&icon_color=559ff4&text_color=fcfcfc&hide_border=true" alt="Sarah Abu Irmeileh's Contribution" width=400>
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarahAbuirmeileh&count_private=true&theme=github_dark&hide_border=true" alt="Sarah Abu Irmeileh's Rating" width=440>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarahAbuirmeileh&count_private=true&theme=github-dark-blue&hide_border=true&title_color=559ff4" alt="Sarah Abu Irmeileh's Rating" width=440>
 </p>
 
 <p align = "center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=SarahAbuirmeileh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt = "Sarah Abu Irmeileh's Languages/Frameworks" width = 350 />
+ <img src = "https://github-stats-extended.vercel.app/api/top-langs?username=SarahAbuirmeileh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt = "Sarah Abu Irmeileh's Languages/Frameworks" width = 350 />
 </p>
 
 <br>
