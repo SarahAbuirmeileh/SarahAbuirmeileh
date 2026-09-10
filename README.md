@@ -113,10 +113,12 @@
 
 </p>
 
-<p align = "center">
- <img src = "https://github-stats-extended.vercel.app/api/top-langs?username=SarahAbuirmeileh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=0d1117&title_color=559ff4&text_color=fcfcfc&icon_color=559ff4" alt = "Sarah Abu Irmeileh's Languages/Frameworks" width = 350 />
-</p>
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SarahAbuirmeileh&layout=donut&text_color=fcfcfc&langs_count=5&theme=dark_github&hide_border=true"
+       alt="Sarah Abu Irmeileh's Languages/Frameworks"
+       width="350" />
+</p>
 
 
 <br>
