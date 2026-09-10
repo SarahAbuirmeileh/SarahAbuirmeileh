@@ -107,9 +107,10 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-extended.vercel.app/api?username=SarahAbuirmeileh&count_private=true&theme=github_dark&icon_color=559ff4&text_color=fcfcfc&hide_border=true" alt="Sarah Abu Irmeileh's Contribution" width=400>
+    <img src="https://github-readme-stats-extended.vercel.app/api?username=SarahAbuirmeileh&count_private=true&theme=github_dark&hide_border=true" alt="Sarah Abu Irmeileh's Contribution" width=400>
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarahAbuirmeileh&count_private=true&theme=github-dark-blue&hide_border=true&title_color=559ff4" alt="Sarah Abu Irmeileh's Rating" width=440>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SarahAbuirmeileh&count_private=true&theme=github-dark-blue&hide_border=true" alt="Sarah Abu Irmeileh's Rating" width=440>
+
 </p>
 
 <p align = "center">
