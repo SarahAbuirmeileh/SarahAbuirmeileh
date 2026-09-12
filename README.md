@@ -115,7 +115,7 @@
 
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SarahAbuirmeileh&layout=donut&text_color=fcfcfc&langs_count=5&theme=dark_github&hide_border=true"
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=SarahAbuirmeileh&layout=donut&text_color=fcfcfc&langs_count=4&theme=dark_github&hide_border=true"
        alt="Sarah Abu Irmeileh's Languages/Frameworks"
        width="350" />
 </p>
